@@ -8,4 +8,4 @@ Skvělý poměr ceny a výkonu: V obchodech je cenově dostupný a navíc v supe
 
 Navštivte [oficiální stránky GitHubu](https://github.com) pro více informací.
 
-![Ukázka rozhraní](images/baban v coko.jpg)
+![Ukázka rozhraní](images/banan_v_coko.jpg)
