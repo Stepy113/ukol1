@@ -10,4 +10,4 @@ Navštivte [oficiální stránky GitHubu](https://github.com) pro více informac
 
 ![Ukázka rozhraní](images/banan_v_coko.jpg)
 
-Více o syntaxi se dozvíte v [Markdown Guide](https://www.markdownguide.org)
+Více se dozvíte v [Recept](https://www.toprecepty.cz/recept/5843-banan-v-cokolade/)
