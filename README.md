@@ -7,3 +7,5 @@ Univerzálnost v kuchyni: Skvěle chutná sám o sobě, ale naprosto dominuje v 
 Skvělý poměr ceny a výkonu: V obchodech je cenově dostupný a navíc v supermarketech většinou nestojí majlant.
 
 Navštivte [oficiální stránky GitHubu](https://github.com) pro více informací.
+
+![Ukázka rozhraní](images/baban v coko.jpg)
