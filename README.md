@@ -11,3 +11,5 @@ Navštivte pro[více informací o banánech.](https://cs.wikipedia.org/wiki/Ban%
 ![Ukázka rozhraní](images/banan_v_coko.jpg)
 
 Více se dozvíte v [Recept](https://www.toprecepty.cz/recept/5843-banan-v-cokolade/)
+
+> **Poznámka** Tento projekt je stále ve vývoji.
